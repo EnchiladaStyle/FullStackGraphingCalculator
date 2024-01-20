@@ -1,38 +1,86 @@
-.App {
-  text-align: center;
+body {
+  font-family: Arial;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
 }
 
-.App-link {
-  color: #61dafb;
+#mainMenu{
+  padding: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#divide{
+  padding: 50px;
+}
+
+#divide2{
+  padding: 39px;
+}
+
+#buttonDiv{
+  display: flex;
+  flex-direction: row;
+}
+
+canvas{
+  background-color: rgb(229, 253, 253);
+}
+
+.inputBox{
+
+  max-width: 50px;
+
+  
+}
+
+.subMenu{
+  display: flex;
+  flex-direction: row;
+}
+
+.menuContainer{
+  background-color:antiquewhite;
+  padding: 15px;
+  border-spacing: 10px;
+}
+
+button{
+  padding: 5px;
+  border-radius: 10px;
+}
+
+select, input{
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#bannerDiv{
+  padding: 15px;
+  font-size:larger;
+  background-color:lightgray;
+  width: 100%;
+}
+
+#signUpLink{
+  padding-left: 5%;
+}
+
+#logInLink{
+  padding-left: 22%
+}
+
+#banner{
+  padding-left:42%;
+}
+
+.credentials_div {
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+  border: 10px solid;
+
+  margin: auto;
+  text-align: center;
 }
