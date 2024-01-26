@@ -9,10 +9,11 @@ function createQuadraticValues(a, h, k){
     let yValPos = [];
     let xValPos = [];
     let xValNeg = [];
-
+ 
     a = a/10;
     h = h*10;
     k = k*10;
+    
     
     
     for (let i =0; i < 400; i++)
