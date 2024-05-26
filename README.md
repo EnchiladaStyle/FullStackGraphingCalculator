@@ -1,9 +1,6 @@
 # Full Stack Graphing Calculator
 
-<img src="./FrontEnd/pictures/GraphingMix.png" width=200>
-<img src="./FrontEnd/pictures/GraphingQuadratic.png" width=200>
-<img src="./FrontEnd/pictures/GaphingLinear.png" width=200>
-<img src="./FrontEnd/pictures/GraphingTan.png" width=200>
+<img src="./FrontEnd/pictures/GraphingMix.png" width=200><img src="./FrontEnd/pictures/GraphingQuadratic.png" width=200><img src="./FrontEnd/pictures/GaphingLinear.png" width=200><img src="./FrontEnd/pictures/GraphingTan.png" width=200>
 
 # Overview
 
